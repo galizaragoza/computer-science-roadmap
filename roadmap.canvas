@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"83928d53a5768d15","type":"text","text":"# Tesis\nToda esta hoja de ruta y su orden están basados en una idea principal: la abstracción.\n\nEn informática, la abstracción es el proceso de eliminar la gestión manual de ciertos procesos para simplificar una tarea. Cuando se habla de *capas de abstraccion*, lo que se está haciendo es clasificar la tecnología en distintos \"grupos\" en función de su nivel de abstracción.\n\nEste roadmap se basa en la premisa de que es **mucho más fácil** subir capas que bajarlas. Aunque entender, y sobre todo saber manejar, conceptos bajos pueda suponer un reto más grande al principio, cuánto más se profundiza en informática más aumenta el valor de ese conocimiento. Comprender bien cimientos que sostienen la capa superior hace mucho más fácil entender la tecnología, y desarrolla un criterio más completo.\n\nEn definitiva, ganar una base sólida y empezar a construir hacia arriba es mejor que hacer tejados en el cielo e intentar cimentarlos.","x":-440,"y":-440,"width":838,"height":221},
+		{"id":"afc034e71a76b118","type":"file","file":"CS/Contenido/cs-roadmap/categorias/arquitectura-de-ordenadores-basico.md","x":-440,"y":-120,"width":838,"height":400},
+		{"id":"f3388eeef5b42341","type":"file","file":"CS/Contenido/cs-roadmap/categorias/networking-basico.md","x":-440,"y":400,"width":838,"height":400},
+		{"id":"5c71ce7f293d9792","x":-440,"y":880,"width":400,"height":400,"type":"file","file":"CS/Contenido/cs-roadmap/categorias/networking-intermedio.md"},
+		{"id":"f76c54aefc93f716","type":"file","file":"CS/Contenido/cs-roadmap/categorias/clang-basico.md","x":-2,"y":880,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"346ad3aa3e39cad4","fromNode":"83928d53a5768d15","fromSide":"bottom","toNode":"afc034e71a76b118","toSide":"top"},
+		{"id":"06a5b73e0ac40a0d","fromNode":"afc034e71a76b118","fromSide":"bottom","toNode":"f3388eeef5b42341","toSide":"top"},
+		{"id":"cba7e4553811d941","fromNode":"f3388eeef5b42341","fromSide":"bottom","toNode":"5c71ce7f293d9792","toSide":"top"},
+		{"id":"3924bfe6d1162d56","fromNode":"f3388eeef5b42341","fromSide":"bottom","toNode":"f76c54aefc93f716","toSide":"top"}
+	]
+}
