@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(categorias/**)",
+      "Write(categorias/**)",
+      "Edit(categorias/**)",
+      "Read(roadmap.canvas)",
+      "Edit(roadmap.canvas)",
+      "Read(assets/**)",
+      "Read(README.md)",
+      "Read(CLAUDE.md)"
+    ],
+    "deny": []
+  }
+}

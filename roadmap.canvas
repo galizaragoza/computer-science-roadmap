@@ -1,15 +1,47 @@
 {
 	"nodes":[
 		{"id":"83928d53a5768d15","type":"text","text":"# Tesis\nToda esta hoja de ruta y su orden están basados en una idea principal: la abstracción.\n\nEn informática, la abstracción es el proceso de eliminar la gestión manual de ciertos procesos para simplificar una tarea. Cuando se habla de *capas de abstraccion*, lo que se está haciendo es clasificar la tecnología en distintos \"grupos\" en función de su nivel de abstracción.\n\nEste roadmap se basa en la premisa de que es **mucho más fácil** subir capas que bajarlas. Aunque entender, y sobre todo saber manejar, conceptos bajos pueda suponer un reto más grande al principio, cuánto más se profundiza en informática más aumenta el valor de ese conocimiento. Comprender bien cimientos que sostienen la capa superior hace mucho más fácil entender la tecnología, y desarrolla un criterio más completo.\n\nEn definitiva, ganar una base sólida y empezar a construir hacia arriba es mejor que hacer tejados en el cielo e intentar cimentarlos.","x":-440,"y":-440,"width":838,"height":221},
-		{"id":"afc034e71a76b118","type":"file","file":"CS/Contenido/cs-roadmap/categorias/arquitectura-de-ordenadores-1.md","x":-440,"y":-120,"width":838,"height":400},
-		{"id":"f3388eeef5b42341","type":"file","file":"CS/Contenido/cs-roadmap/categorias/networking-1.md","x":-440,"y":400,"width":838,"height":400},
-		{"id":"5c71ce7f293d9792","x":-440,"y":880,"width":400,"height":400,"type":"file","file":"CS/Contenido/cs-roadmap/categorias/networking-2.md"},
-		{"id":"f76c54aefc93f716","type":"file","file":"CS/Contenido/cs-roadmap/categorias/clang-basico.md","x":-2,"y":880,"width":400,"height":400}
+		{"id":"afc034e71a76b118","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/arquitectura-de-ordenadores-1.md","x":-440,"y":-160,"width":838,"height":500},
+		{"id":"1a2b3c4d5e6f7a8b","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/sistemas-operativos-1.md","x":-440,"y":400,"width":838,"height":320},
+		{"id":"f3388eeef5b42341","type":"file","file":"CS/Contenido/cs-roadmap/categorias/networking-1.md","x":-1100,"y":880,"width":400,"height":300},
+		{"id":"5c71ce7f293d9792","type":"file","file":"CS/Contenido/cs-roadmap/categorias/networking-2.md","x":-1100,"y":1360,"width":400,"height":300},
+		{"id":"3c4d5e6f7a8b9c0d","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/ciberseguridad-1.md","x":-1400,"y":1840,"width":400,"height":300},
+		{"id":"4d5e6f7a8b9c0d1e","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/infraestructura-y-devops.md","x":-800,"y":1840,"width":400,"height":300},
+		{"id":"7a8b9c0d1e2f3a4b","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/ciberseguridad-avanzada.md","x":-1400,"y":2320,"width":400,"height":300},
+		{"id":"9c0d1e2f3a4b5c6d","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/data-science-1.md","x":398,"y":2800,"width":400,"height":300},
+		{"id":"0d1e2f3a4b5c6d7e","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/game-dev-basico.md","x":998,"y":2800,"width":400,"height":300},
+		{"id":"3a4b5c6d7e8f9a0b","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/machine-learning-ia-1.md","x":398,"y":3280,"width":400,"height":300},
+		{"id":"4b5c6d7e8f9a0b1c","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/game-dev-avanzado.md","x":998,"y":3280,"width":400,"height":300},
+		{"id":"f76c54aefc93f716","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/clang-basico.md","x":698,"y":1360,"width":400,"height":300},
+		{"id":"2b3c4d5e6f7a8b9c","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/algoritmos-y-estructuras-de-datos-1.md","x":698,"y":1840,"width":400,"height":300},
+		{"id":"5e6f7a8b9c0d1e2f","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/python-y-oop-basico.md","x":398,"y":2320,"width":400,"height":300},
+		{"id":"6f7a8b9c0d1e2f3a","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/software-architecture.md","x":1098,"y":2320,"width":400,"height":300},
+		{"id":"fba5d75a75afa5ac","x":698,"y":870,"width":400,"height":400,"type":"file","file":"Camara/Contenido/cs-roadmap/categorias/programacion-funcional-1.md"},
+		{"id":"8b9c0d1e2f3a4b5c","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/web-basico.md","x":-302,"y":2800,"width":400,"height":300},
+		{"id":"1e2f3a4b5c6d7e8f","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/frontend.md","x":-502,"y":3280,"width":400,"height":300},
+		{"id":"2f3a4b5c6d7e8f9a","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/backend-fullstack.md","x":-52,"y":3280,"width":400,"height":300},
+		{"id":"5c6d7e8f9a0b1c2d","type":"file","file":"Camara/Contenido/cs-roadmap/categorias/ia-avanzada.md","x":398,"y":3720,"width":400,"height":300}
 	],
 	"edges":[
 		{"id":"346ad3aa3e39cad4","fromNode":"83928d53a5768d15","fromSide":"bottom","toNode":"afc034e71a76b118","toSide":"top"},
-		{"id":"06a5b73e0ac40a0d","fromNode":"afc034e71a76b118","fromSide":"bottom","toNode":"f3388eeef5b42341","toSide":"top"},
+		{"id":"aa0001bb00cc00dd","fromNode":"afc034e71a76b118","fromSide":"bottom","toNode":"1a2b3c4d5e6f7a8b","toSide":"top"},
+		{"id":"aa0002bb00cc00dd","fromNode":"1a2b3c4d5e6f7a8b","fromSide":"bottom","toNode":"f3388eeef5b42341","toSide":"top"},
 		{"id":"cba7e4553811d941","fromNode":"f3388eeef5b42341","fromSide":"bottom","toNode":"5c71ce7f293d9792","toSide":"top"},
-		{"id":"3924bfe6d1162d56","fromNode":"f3388eeef5b42341","fromSide":"bottom","toNode":"f76c54aefc93f716","toSide":"top"}
+		{"id":"aa0004bb00cc00dd","fromNode":"5c71ce7f293d9792","fromSide":"bottom","toNode":"3c4d5e6f7a8b9c0d","toSide":"top"},
+		{"id":"aa0005bb00cc00dd","fromNode":"5c71ce7f293d9792","fromSide":"bottom","toNode":"4d5e6f7a8b9c0d1e","toSide":"top"},
+		{"id":"aa0006bb00cc00dd","fromNode":"f76c54aefc93f716","fromSide":"bottom","toNode":"2b3c4d5e6f7a8b9c","toSide":"top"},
+		{"id":"aa0007bb00cc00dd","fromNode":"2b3c4d5e6f7a8b9c","fromSide":"bottom","toNode":"5e6f7a8b9c0d1e2f","toSide":"top"},
+		{"id":"aa0008bb00cc00dd","fromNode":"2b3c4d5e6f7a8b9c","fromSide":"bottom","toNode":"6f7a8b9c0d1e2f3a","toSide":"top"},
+		{"id":"aa0009bb00cc00dd","fromNode":"5e6f7a8b9c0d1e2f","fromSide":"bottom","toNode":"8b9c0d1e2f3a4b5c","toSide":"top"},
+		{"id":"aa0010bb00cc00dd","fromNode":"5e6f7a8b9c0d1e2f","fromSide":"bottom","toNode":"9c0d1e2f3a4b5c6d","toSide":"top"},
+		{"id":"aa0011bb00cc00dd","fromNode":"5e6f7a8b9c0d1e2f","fromSide":"bottom","toNode":"0d1e2f3a4b5c6d7e","toSide":"top"},
+		{"id":"aa0012bb00cc00dd","fromNode":"8b9c0d1e2f3a4b5c","fromSide":"bottom","toNode":"1e2f3a4b5c6d7e8f","toSide":"top"},
+		{"id":"aa0013bb00cc00dd","fromNode":"8b9c0d1e2f3a4b5c","fromSide":"bottom","toNode":"2f3a4b5c6d7e8f9a","toSide":"top"},
+		{"id":"aa0014bb00cc00dd","fromNode":"9c0d1e2f3a4b5c6d","fromSide":"bottom","toNode":"3a4b5c6d7e8f9a0b","toSide":"top"},
+		{"id":"aa0015bb00cc00dd","fromNode":"3a4b5c6d7e8f9a0b","fromSide":"bottom","toNode":"5c6d7e8f9a0b1c2d","toSide":"top"},
+		{"id":"aa0016bb00cc00dd","fromNode":"0d1e2f3a4b5c6d7e","fromSide":"bottom","toNode":"4b5c6d7e8f9a0b1c","toSide":"top"},
+		{"id":"aa0017bb00cc00dd","fromNode":"3c4d5e6f7a8b9c0d","fromSide":"bottom","toNode":"7a8b9c0d1e2f3a4b","toSide":"top"},
+		{"id":"7ddb7a9a5167e281","fromNode":"1a2b3c4d5e6f7a8b","fromSide":"bottom","toNode":"fba5d75a75afa5ac","toSide":"top"},
+		{"id":"ea39a5b4b2e462c4","fromNode":"fba5d75a75afa5ac","fromSide":"bottom","toNode":"f76c54aefc93f716","toSide":"top"}
 	]
 }
